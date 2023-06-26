@@ -1,7 +1,7 @@
 :root {
-    --branco-principal: #ec1010;
-    --cinza-secundario: #19ce08;
-    --botao-azul: #e90a0ae8;
+    --branco-principal: #8cfade;
+    --cinza-secundario: #ce0808;
+    --botao-azul: #000000e8;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #d60b70;
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Viajens.jpg");
+    background-image: url("img/Viajem.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
